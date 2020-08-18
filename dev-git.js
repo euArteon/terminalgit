@@ -60,6 +60,7 @@
     'explorer . = mesma coisa dos exemplos acima'
     'mkdir nomedodiretório = cria uma pasta'
     'rmdir = apaga um diretório'
+    'start https://github.com/euArteon/terminalgit.git = abre um url no navegador'
 
 
 // 3 // Git
