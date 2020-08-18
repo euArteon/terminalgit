@@ -53,6 +53,14 @@
     'dir = listas os arquivos do diretório';
     'tree /f = Criar uma árvore mostrando os arquivos do diretório'
     'cls = limpa o prompt de comandos'
+    'del arquivo.extensão = deleta um arquivo'
+    'start . = abre o explorer no diretório atual'
+    'start .. = abre e explorer no diretório pai. Quanto mais . você colocar, mais pra traz você vai'
+    'start arquivo.extensão = executa qualquer arquivo'
+    'explorer . = mesma coisa dos exemplos acima'
+    'mkdir nomedodiretório = cria uma pasta'
+    'rmdir = apaga um diretório'
+
 
 // 3 // Git
 
